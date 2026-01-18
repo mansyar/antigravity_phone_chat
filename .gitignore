@@ -27,6 +27,7 @@ Thumbs.db
 # Build/Temp
 dist/
 build/
+*.tsbuildinfo
 .DS_Store
 
 # SSL Certificates (generated locally)
